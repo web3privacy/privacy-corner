@@ -7,6 +7,7 @@ The concept is based on creating an open, inclusive place for meeting and discus
 Another feature is the [Privacy Design Clinic](#privacy-design-clinic), where through our mentors we offer help to hackers and teams to be more privacy-preserving.
 
 ## Principles
+* autonomous - limited control of the main organisers
 * community-based - everyone can propose a campfire
 * no bullshit, marketing free
 
