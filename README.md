@@ -58,3 +58,8 @@ Presentation of various interesting devices including privacy-preserving tools.
 * *[ETHRome 2024](https://ethrome.org/)* (October)
 * *[ETHBrno3](https://ethbrno.cz/)* (October)
 * *[Devcon7](https://devcon.org/)* (Nov 12-15)
+
+## Team
+
+* Tree ([@burningtree](https://github.com/burningtree))
+* PG ([@EclecticSamurai](https://github.com/EclecticSamurai))
