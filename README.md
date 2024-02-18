@@ -10,6 +10,10 @@ The concept is based on creating a open, inclusive place for meeting and discuss
 * *[ETHBrno3](https://ethbrno.cz/)* (October)
 * *[Devcon7](https://devcon.org/)* (Nov 12-15)
 
+## Principles
+* community-based - everyone can propose a campfire
+* no bullshit, marketing free
+
 ## Main components
 * [Campfire Stage](#campfire-stage)
 * [Privacy Design Clinic](#privacy-design-clinic) (only for hackathons)
