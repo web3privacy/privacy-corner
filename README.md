@@ -14,7 +14,7 @@ Another feature is the [Privacy Design Clinic](#privacy-design-clinic), where th
 
 ## Main components
 * [Campfire Stage](#campfire-stage)
-* [Privacy Design Clinic](#privacy-design-clinic) (only for hackathons)
+* [Privacy Design Clinic](#privacy-design-clinic)
 * [Art Installations](#art-installations)
 * [HW Showcase](#hw-showcase)
 
