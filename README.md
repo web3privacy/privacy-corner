@@ -4,12 +4,6 @@ A community pop-up space as **autonomous zone dedicated to privacy and cypherpun
 
 The concept is based on creating a open, inclusive place for meeting and discussion, like the ancient Greek [Agora](https://en.wikipedia.org/wiki/Agora), where anyone can come and raise any question or topic, or join the discussions. Through our [Campfire sessions](#campfire-stage) you can open discussions in a smaller circle on many topics that are not suitable for traditional talks, workshops or panel discussions.
 
-## Upcoming events
-* [ETHBerlin4](https://ethberlin.org/) (May 24-26) (proposal upcoming)
-* *[ETHRome 2024](https://ethrome.org/)* (October)
-* *[ETHBrno3](https://ethbrno.cz/)* (October)
-* *[Devcon7](https://devcon.org/)* (Nov 12-15)
-
 ## Principles
 * community-based - everyone can propose a campfire
 * no bullshit, marketing free
@@ -37,3 +31,9 @@ Requirements:
 * microphone, speaker, TV with HDMI input
 
 ### Privacy Design Clinic
+
+## Upcoming events
+* [ETHBerlin4](https://ethberlin.org/) (May 24-26) (proposal upcoming)
+* *[ETHRome 2024](https://ethrome.org/)* (October)
+* *[ETHBrno3](https://ethbrno.cz/)* (October)
+* *[Devcon7](https://devcon.org/)* (Nov 12-15)
