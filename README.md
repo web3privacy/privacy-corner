@@ -18,7 +18,9 @@ Another feature is the [Privacy Design Clinic](#privacy-design-clinic), where th
 
 Everyone is able to propose their own campfire session. The only and main condition is that it must be related to our topic (eq. privacy, cypherpunk/lunarpunk). Typical length of one campfire session is 30 - 60 minutes.
 
-Examples of campfire session:
+W3PN will run open submissions and they will curate the entire schedule to keep the content on topic and as non-commercial and community-based as possible.
+
+#### Examples of campfire session
 * open discussion around a specific topic
 * an interview with a well-known/interesting person
 * introducing an open privacy tool or protocol
@@ -27,9 +29,7 @@ Examples of campfire session:
 * author's reading from the book
 * musical or visual performance
 
-W3PN will run open submissions and they will curate the entire schedule to keep the content on topic and as non-commercial and community-based as possible.
-
-Requirements:
+#### Requirements
 * microphone, speaker, TV with HDMI input
 
 ### Privacy Design Clinic
