@@ -10,6 +10,7 @@ Another feature is the [Privacy Design Clinic](#privacy-design-clinic), where th
 * autonomous - limited control of the main organisers
 * community-based - everyone can propose a campfire
 * no bullshit, marketing free
+* no photos, filming or recording!
 
 ## Main components
 * [Campfire Stage](#campfire-stage)
