@@ -22,7 +22,7 @@ Another feature is the [Privacy Design Clinic](#privacy-design-clinic), where th
 
 Campfire session is one of those formats that perfectly describes what it does and what it looks like. Much like people sitting around a campfire listening to someone tell a story, a campfire session is an informal way of presenting and discussing topics with meeting attendees.
 
-Everyone is able to propose their own campfire session. The only and main condition is that it must be related to our topic (eq. privacy, cypherpunk/lunarpunk). Typical length of one campfire session is 30 - 60 minutes.
+Everyone is able to propose their own campfire session. The specific form of a campfire session is very flexible and depends on the proposer. Typical length of one campfire session is 30 - 60 minutes.
 
 W3PN will run open submissions and they will curate the entire schedule to keep the content on topic and as non-commercial and community-based as possible.
 
