@@ -51,6 +51,7 @@ Presentation of various interesting devices including privacy-preserving tools.
 | Device | Description |
 | --- | --- |
 | [Bleskomat](https://www.bleskomat.com/) | DIY Bitcoin ATM |
+| [Keycard Pro](https://github.com/status-im/keycard-pro) (prototype) | preview of upcoming HW wallet from Status |
 
 ## Upcoming events
 * [ETHBerlin4](https://ethberlin.org/) (May 24-26) (proposal upcoming)
