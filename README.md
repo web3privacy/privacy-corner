@@ -2,7 +2,7 @@
 
 A community pop-up space as a **safe autonomous zone** dedicated to **privacy and cypherpunk**, suitable for complementing hackathons and other events. *Privacy Corner* is hosted and curated by [Web3Privacy Now](https://web3privacy.info/) initiative.
 
-The concept is based on creating an open, inclusive place for meeting and discussion, like the ancient Greek [Agora](https://en.wikipedia.org/wiki/Agora), where anyone can come and raise any question or topic, or join the discussions. Through our [Campfire sessions](#campfire-stage) you can open discussions in a smaller circle on many topics that are not suitable for traditional "formal" talks, workshops or panel discussions.
+The concept is based on creating an open, inclusive place for meeting and discussion, like the ancient Greek [Agora](https://en.wikipedia.org/wiki/Agora), where anyone can come and raise any question or topic, or join the discussions. Through our [Campfire sessions](#campfire-stage) you can open discussions in a smaller circle (typically 15-20 people) on many topics that are not suitable for traditional "formal" talks, workshops or panel discussions.
 
 Another feature is the [Privacy Design Clinic](#privacy-design-clinic), where through our mentors we offer help to hackers and teams to be more privacy-preserving.
 
@@ -20,7 +20,8 @@ Another feature is the [Privacy Design Clinic](#privacy-design-clinic), where th
 
 ### Campfire Stage
 
-Campfire session is one of those formats that perfectly describes what it does and what it looks like. Much like people sitting around a campfire listening to someone tell a story, a campfire session is an informal way of presenting and discussing topics with meeting attendees.
+Campfire session is one of those formats that perfectly describes what it does and what it looks like. Much like people sitting around a campfire listening to someone tell a story, a campfire session is an informal way of presenting and discussing topics with meeting attendees (["What Is a Campfire Setup & When Should You Use It?
+"](https://eventleadershipinstitute.com/what-is-a-campfire-setup-when-should-you-use-it/)).
 
 Everyone is able to propose their own campfire session. The specific form of a campfire session is very flexible and depends on the proposer. Typical length of one campfire session is 30 - 60 minutes.
 
