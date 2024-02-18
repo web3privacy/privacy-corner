@@ -15,6 +15,8 @@ Another feature is the [Privacy Design Clinic](#privacy-design-clinic), where th
 ## Main components
 * [Campfire Stage](#campfire-stage)
 * [Privacy Design Clinic](#privacy-design-clinic) (only for hackathons)
+* [Art Installations](#art-installations)
+* [HW Showcase](#hw-showcase)
 
 ### Campfire Stage
 
@@ -37,6 +39,18 @@ W3PN will run open submissions and they will curate the entire schedule to keep 
 * microphone, speaker, TV with HDMI input
 
 ### Privacy Design Clinic
+
+### Art Installations
+
+Within the space we offer the opportunity for various artists to exhibit interesting art installations related to privacy or cypherpunk themes.
+
+### HW Showcase
+
+Presentation of various interesting devices including privacy-preserving tools.
+
+| Device | Description |
+| --- | --- |
+| [Bleskomat](https://www.bleskomat.com/) | DIY Bitcoin ATM |
 
 ## Upcoming events
 * [ETHBerlin4](https://ethberlin.org/) (May 24-26) (proposal upcoming)
