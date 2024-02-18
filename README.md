@@ -2,7 +2,7 @@
 
 A community pop-up space as **autonomous zone dedicated to privacy and cypherpunk**, suitable for complementing hackathons and other events, hosted and curated by [Web3Privacy Now](https://web3privacy.info/) initiative.
 
-The concept is based on creating a open, inclusive place for meeting and discussion, like the ancient Greek [Agora](https://en.wikipedia.org/wiki/Agora), where anyone can come and raise any question or topic, or join the discussions. Through our [Campfire sessions](#campfire-stage) you can open discussions in a smaller circle on many topics that are not suitable for traditional talks, workshops or panel discussions.
+The concept is based on creating an open, inclusive place for meeting and discussion, like the ancient Greek [Agora](https://en.wikipedia.org/wiki/Agora), where anyone can come and raise any question or topic, or join the discussions. Through our [Campfire sessions](#campfire-stage) you can open discussions in a smaller circle on many topics that are not suitable for traditional talks, workshops or panel discussions.
 
 ## Principles
 * community-based - everyone can propose a campfire
