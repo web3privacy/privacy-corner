@@ -57,6 +57,12 @@ Presentation of various interesting devices including privacy-preserving tools.
 
 \* not confirmed
 
+## Size and placement
+
+The size of the Privacy Corner depends on the specific conditions and event, but the base (campfire stage, desk) should be an area of about 50m2, with additional space for standing around. Art installations may require extra space.
+
+The preferred placement is inside some larger open space where the flow of people is guaranteed.
+
 ## Upcoming events
 * [ETHBerlin4](https://ethberlin.org/) (May 24-26) (proposal upcoming)
 * *[ETHRome 2024](https://ethrome.org/)* (October)
