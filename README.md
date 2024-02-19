@@ -41,6 +41,10 @@ W3PN will run open submissions and they will curate the entire schedule to keep 
 
 ### Privacy Design Clinic
 
+The main idea is to bring together all the privacy experts and mentors available at the hackathon to create a "Privacy Design Clinic" as a platform where hackers and teams can easily connect with these people.
+
+A physical booth in the Privacy Corner will serve as a point of contact. Our goal is to keep the location open as long as possible during the hackathon and to have at least 1-2 people on site at all times who are able to give advice or direction.
+
 ### Art Installations
 
 Within the space we offer the opportunity for various artists to exhibit interesting art installations related to privacy or cypherpunk themes.
