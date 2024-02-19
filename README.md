@@ -52,6 +52,8 @@ A physical booth in the Privacy Corner will serve as a point of contact. Our goa
 
 Within the space we offer the opportunity for various artists to exhibit interesting art installations related to privacy or cypherpunk themes.
 
+If you are an artist and would like to show your work at Privacy Corner, please [contact us](https://docs.web3privacy.info/contacts) 🙏.
+
 ### HW Showcase
 
 Presentation of various interesting devices including privacy-preserving tools.
