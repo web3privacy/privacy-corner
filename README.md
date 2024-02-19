@@ -76,7 +76,10 @@ The preferred placement is inside some larger open space where the flow of peopl
 
 Although the "campfire" format looks very similar to classic formal talks or workshops, we assure you that it is a completely different format with different goals and dynamics. The aim is certainly not to compete with the main program, but rather to fill a gap and add a new dimension to the possibility of active participation of visitors.
 
+In coordination with your program team, we can tailor campfire sessions that are directly linked to the main program to create a cohesive experience. For example, a follow-up campfire discussion to a talk.
+
 We have previous experience with organizing campfire on a large scale at one Czech conference (UTXO.22) and people loved this unconventional format. We believe this format is even more suitable for hackathons.
+
 
 ## Upcoming events
 * [ETHBerlin4](https://ethberlin.org/) (May 24-26) (proposal upcoming)
