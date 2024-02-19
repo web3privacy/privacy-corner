@@ -4,7 +4,9 @@ A community pop-up space as a **safe autonomous zone** dedicated to **privacy an
 
 The concept is based on creating an open, inclusive place for meeting and discussion, like the ancient Greek [Agora](https://en.wikipedia.org/wiki/Agora), where anyone can come and raise any question or topic, or join the discussions. Through our [Campfire sessions](#campfire-stage) anyone can open discussions in a smaller circle (typically 15-20 people) on many topics that are not suitable for traditional "formal" talks, workshops or panel discussions.
 
-Another feature is the [Privacy Design Clinic](#privacy-design-clinic), where through our mentors we offer help to hackers and teams to be more privacy-preserving.
+As a service to hackers, there will be a [Privacy Design Clinic](#privacy-design-clinic) where they can get basic advices on how to design their project to be more privacy-preserving and connect with available experts.
+
+The whole concept will be complemented by [Art Installations](#art-installations) related to cypherpunk or a [showcase of interesting HW devices](#hw-showcase).
 
 ## Principles
 * autonomous - limited control of the main organisers
