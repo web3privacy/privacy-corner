@@ -72,6 +72,12 @@ The size of the Privacy Corner depends on the specific conditions and event, but
 
 The preferred placement is inside some larger open space where the flow of people is guaranteed.
 
+## For organisers of the main event
+
+Although the "campfire" format looks very similar to classic formal talks or workshops, we assure you that it is a completely different format with different goals and dynamics. The aim is certainly not to compete with the main program, but rather to fill a gap and add a new dimension to the possibility of active participation of visitors.
+
+We have previous experience with organizing campfire on a large scale at one Czech conference (UTXO.22) and people loved this unconventional format. We believe this format is even more suitable for hackathons.
+
 ## Upcoming events
 * [ETHBerlin4](https://ethberlin.org/) (May 24-26) (proposal upcoming)
 * *[ETHRome 2024](https://ethrome.org/)* (October)
