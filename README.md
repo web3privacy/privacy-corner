@@ -89,6 +89,7 @@ We have previous experience with organizing campfire on a large scale at one Cze
 
 ## Upcoming events
 * [ETHBerlin4](https://ethberlin.org/) (May 24-26) (proposal upcoming)
+* *[MoneroKon 2024](https://monerokon.org/)* (Jun 7-9)
 * *[ETHRome 2024](https://ethrome.org/)* (October)
 * *[ETHBrno3](https://ethbrno.cz/)* (October)
 * *[Devcon7](https://devcon.org/)* (Nov 12-15)
