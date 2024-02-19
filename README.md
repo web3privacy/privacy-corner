@@ -38,6 +38,12 @@ W3PN will run open submissions and they will curate the entire schedule to keep 
 * author's reading from the book
 * musical or visual performance
 
+
+#### Example campfire session
+
+<img width="75%" alt="Campfire example" src="https://github.com/web3privacy/privacy-corner/assets/67269/ebadedf5-c123-49f8-8502-a956edf56850">
+
+
 #### Requirements
 * microphone, speaker, projector/TV with HDMI input
 * classic chairs (~15-20) + relaxed seating around (fatboys?)
