@@ -37,7 +37,8 @@ W3PN will run open submissions and they will curate the entire schedule to keep 
 * musical or visual performance
 
 #### Requirements
-* microphone, speaker, TV with HDMI input
+* microphone, speaker, projector/TV with HDMI input
+* classic chairs (~15-20) + relaxed seating around (fatboys?)
 
 ### Privacy Design Clinic
 
