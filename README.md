@@ -2,7 +2,7 @@
 
 A community pop-up space as a **safe autonomous zone** dedicated to **privacy and cypherpunk**, suitable for complementing hackathons and other events. *Privacy Corner* is hosted and curated by [Web3Privacy Now](https://web3privacy.info/) initiative.
 
-The concept is based on creating an open, inclusive place for meeting and discussion, like the ancient Greek [Agora](https://en.wikipedia.org/wiki/Agora), where anyone can come and raise any question or topic, or join the discussions. Through our [Campfire sessions](#campfire-stage) anyone can open discussions in a smaller circle (typically 15-20 people) on many topics that are not suitable for traditional "formal" talks, workshops or panel discussions.
+The concept is based on creating an open, inclusive place for meeting and discussion, like the ancient Greek [Agora](https://en.wikipedia.org/wiki/Agora), where anyone can come and raise any question or topic, or join the discussions. Through our [Campfire sessions](#campfire-stage) anyone can open discussions in a smaller circle (typically 15-20 people) on many topics that are not suitable for traditional "formal" talks, workshops or panel discussions. It is a very similar concept to the [Self-organizing Sessions](https://events.ccc.de/en/2023/12/21/37c3-self-organized-sessions/) you know from CCC.
 
 As a service to hackers, there will be a [Privacy Design Clinic](#privacy-design-clinic) where they can get basic advices on how to design their project to be more privacy-preserving and connect with available experts.
 
