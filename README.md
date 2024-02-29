@@ -19,6 +19,7 @@ The whole concept will be complemented by [Art Installations](#art-installations
 * [Privacy Design Clinic](#privacy-design-clinic)
 * [Art Installations](#art-installations)
 * [HW Showcase](#hw-showcase)
+* [Privacy Bookshelf](#privacy-bookshelf)
 
 ### Campfire Stage
 
@@ -62,6 +63,8 @@ If you are an artist and would like to show your work at Privacy Corner, please 
 
 ### HW Showcase
 
+> 📱 A unique opportunity to experience innovative technological gadgets first-hand.
+
 Presentation of various interesting devices including privacy-preserving tools.
 
 | Device | Description |
@@ -71,6 +74,12 @@ Presentation of various interesting devices including privacy-preserving tools.
 | ZK Hardware Accelerator(s)* ||
 
 \* not confirmed
+
+### Privacy Bookshelf
+
+> 📕 Take a break from hacking for a few minutes and dive into some of the gems in our library.
+
+A small physical library with various books and magazines related to privacy, cypherpunk and other related topics.
 
 ## Size and placement
 
