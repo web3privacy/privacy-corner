@@ -79,7 +79,17 @@ Presentation of various interesting devices including privacy-preserving tools.
 
 > 📚 Take a break from hacking for a few minutes and dive into some of the gems in our library.
 
-A small physical library with various books and magazines related to privacy, cypherpunk, Ethereum and similar topics.
+A small physical library with various books and magazines related to privacy, cypherpunk, crypto-anarchy, FOSS movement, Ethereum and similar topics.
+
+For example:
+
+| Type | Item name | Author | Year |
+| --- | --- | --- | --- |
+| Book | [Extreme Privacy](https://inteltechniques.com/book7.html) | Michael Bazzell | 2022 |
+| Book | [Cypherpunk Ethics](https://www.routledge.com/Cypherpunk-Ethics-Radical-Ethics-for-the-Digital-Age/Anderson/p/book/9781032113593) | Patrick D. Anderson | 2022 |
+| Book | [The Infinite Machine](https://www.harpercollins.com/products/the-infinite-machine-camila-russo?variant=32123333836834) | Camilla Russo | 2020 |
+| TBA | TBA ||
+| TBA | TBA .. ||
 
 ## Size and placement
 
