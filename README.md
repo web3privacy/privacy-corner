@@ -79,7 +79,7 @@ Presentation of various interesting devices including privacy-preserving tools.
 
 > 📚 Take a break from hacking for a few minutes and dive into some of the gems in our library.
 
-A small physical library with various books and magazines related to privacy, cypherpunk and other related topics.
+A small physical library with various books and magazines related to privacy, cypherpunk, Ethereum and similar topics.
 
 ## Size and placement
 
