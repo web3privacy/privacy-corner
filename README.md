@@ -14,7 +14,7 @@ The whole concept will be complemented by [Art Installations](#art-installations
 * no bullshit, marketing free
 * no photos, filming or recording!
 
-## Main components
+## Components
 * 🎤 [Campfire Stage](#campfire-stage)
 * 🏥 [Privacy Design Clinic](#privacy-design-clinic)
 * 🖼️ [Art Installations](#art-installations)
