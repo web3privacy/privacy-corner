@@ -6,7 +6,7 @@ The concept is based on creating an open, inclusive place for meeting and discus
 
 As a service to hackers, there will be a [Privacy Design Clinic](#privacy-design-clinic) where they can get basic advices on how to design their project to be more privacy-preserving and connect with available experts.
 
-The whole concept will be complemented by [Art Installations](#art-installations) related to cypherpunk or a [showcase of interesting HW devices](#hw-showcase).
+The whole concept will be complemented by [Art Installations](#art-installations) and [Privacy Bookshelf](#privacy-bookshelf) related to cypherpunk or a [showcase of interesting HW devices](#hw-showcase).
 
 ## Principles
 * autonomous - limited control of the main organisers
