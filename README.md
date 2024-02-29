@@ -15,11 +15,11 @@ The whole concept will be complemented by [Art Installations](#art-installations
 * no photos, filming or recording!
 
 ## Main components
-* [Campfire Stage](#campfire-stage)
-* [Privacy Design Clinic](#privacy-design-clinic)
-* [Art Installations](#art-installations)
-* [HW Showcase](#hw-showcase)
-* [Privacy Bookshelf](#privacy-bookshelf)
+* 🎤 [Campfire Stage](#campfire-stage)
+* 🏥 [Privacy Design Clinic](#privacy-design-clinic)
+* 🖼️ [Art Installations](#art-installations)
+* 📟 [HW Showcase](#hw-showcase)
+* 📚 [Privacy Bookshelf](#privacy-bookshelf)
 
 ### Campfire Stage
 
@@ -77,7 +77,7 @@ Presentation of various interesting devices including privacy-preserving tools.
 
 ### Privacy Bookshelf
 
-> 📕 Take a break from hacking for a few minutes and dive into some of the gems in our library.
+> 📚 Take a break from hacking for a few minutes and dive into some of the gems in our library.
 
 A small physical library with various books and magazines related to privacy, cypherpunk and other related topics.
 
