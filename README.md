@@ -93,6 +93,7 @@ For example:
 | Book | [Proof of Stake](https://www.sevenstories.com/books/4443-proof-of-stake) | Vitalik Buterin | 2022 |
 | Book | [The Infinite Machine](https://www.harpercollins.com/products/the-infinite-machine-camila-russo?variant=32123333836834) | Camilla Russo | 2020 |
 | Book | [Reinventing Organizations](https://www.reinventingorganizations.com/) | Frederic Laloux | 2014 |
+| Book | [The Code Book](https://www.penguinrandomhouse.com/books/168002/the-code-book-by-simon-singh/) | Simon Singh | 2000 |
 | TBA | TBA ||
 | TBA | TBA .. ||
 
