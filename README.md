@@ -1,4 +1,4 @@
-# W3PN Privacy Corner
+# W3PN ↴ Privacy Corner
 
 A community pop-up space as a **safe autonomous zone** dedicated to **privacy and cypherpunk**, suitable for complementing hackathons and other events. *Privacy Corner* is hosted and curated by [Web3Privacy Now](https://web3privacy.info/) initiative.
 
