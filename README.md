@@ -85,9 +85,14 @@ For example:
 
 | Type | Item name | Author | Year |
 | --- | --- | --- | --- |
+| Book | [Absolute Essentials of Ethereum](https://www.routledge.com/Absolute-Essentials-of-Ethereum/Dylan-Ennis/p/book/9781032334189) | Paul Dylan-Ennis | 2024 |
+| Book | [Read Write Own](https://readwriteown.com/) | Chris Dixon | 2024 |
+| Book | [The Genesis Book](https://store.bitcoinmagazine.com/products/the-genesis-book) | Aaron van Wirdum | 2024 |
 | Book | [Extreme Privacy](https://inteltechniques.com/book7.html) | Michael Bazzell | 2022 |
 | Book | [Cypherpunk Ethics](https://www.routledge.com/Cypherpunk-Ethics-Radical-Ethics-for-the-Digital-Age/Anderson/p/book/9781032113593) | Patrick D. Anderson | 2022 |
+| Book | [Proof of Stake](https://www.sevenstories.com/books/4443-proof-of-stake) | Vitalik Buterin | 2022 |
 | Book | [The Infinite Machine](https://www.harpercollins.com/products/the-infinite-machine-camila-russo?variant=32123333836834) | Camilla Russo | 2020 |
+| Book | [Reinventing Organizations](https://www.reinventingorganizations.com/) | Frederic Laloux | 2014 |
 | TBA | TBA ||
 | TBA | TBA .. ||
 
