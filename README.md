@@ -47,7 +47,9 @@ W3PN will run open submissions and they will curate the entire schedule to keep 
 
 #### Requirements
 * microphone, speaker, projector/TV with HDMI input
-* classic chairs (~15-20) + relaxed seating around (fatboys?)
+* classic chairs (~15-20) + square seat (>10) + relaxed seating around (fatboys?)
+
+(microphone will be needed only for a small part of campfires, when more people are gathered or for various performances)
 
 ### Privacy Design Clinic
 
