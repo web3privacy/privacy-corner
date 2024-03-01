@@ -125,3 +125,5 @@ We have previous experience with organizing campfire on a large scale at one Cze
 
 * Tree ([@burningtree](https://github.com/burningtree))
 * PG ([@EclecticSamurai](https://github.com/EclecticSamurai))
+* Mykola ([@Msiusko](https://github.com/Msiusko))
+* Coinmandeer ([@coinmandeer](https://github.com/coinmandeer))
